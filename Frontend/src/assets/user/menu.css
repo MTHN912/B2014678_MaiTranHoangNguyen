@@ -1,0 +1,106 @@
+body {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    background: #fff;
+    font-size: 17px;
+    line-height: 2;
+    font-weight: 400;
+  
+}
+.ftco-section {
+    padding: 3em 0;
+    position: relative;
+}
+.ftco-search {
+    position: relative;
+    width: 100%;
+    display: block;
+}
+.ftco-section .nav {
+    width: 1117px !important;
+    margin-left: -15px;
+}
+.ftco-section .nav-link-wrap {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.ftco-section .nav-pills {
+    width: 100%;
+    display: block;
+}
+.ftco-section .nav-link{
+    padding: 15px !important;
+    border-radius: 0 !important;
+    margin-bottom: 0;
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    display: inline-block;
+    border: 1px solid transparent;
+    background: #fff;
+    width: 16.6%;
+    text-decoration: none !important;
+
+}
+.ftco-section .nav-link:hover {
+    background: #c8a97e !important;
+    color: #fff !important;
+}
+.ftco-section .nav-active::before {
+    content: "";
+    border-width: 15px 19px ;
+    border-style: solid ;
+    border-color: #c8a97e transparent transparent transparent;
+    position: absolute;
+    right: 69px;
+    top: 59px;
+}
+.ftco-section .nav-link.active {
+     color: #fff;
+     transition: all .3s transparent;
+     background: #c8a97e !important;
+}
+.tab-content {
+    border-radius: 0;
+    margin-top: 15px;
+}
+.tab-content>.active {
+    display: block;
+}
+/* .ftco-animate {
+    opacity: 0;
+    visibility: collapse;
+} */
+.list-menu {
+    margin-top: 56px;
+}
+
+.list-menu .col-lg-2{
+    padding: 10px;
+}
+.list-menu .col-lg-2:hover{
+    background-color: var( --primary-color);
+   border: 1px solid #c6c4c6;
+   border-radius: 3px;
+}
+.list-menu a{
+    text-decoration: none;
+    color: #000;
+    padding: 16px;
+    font-size: 1.3rem;
+    font-weight: 650;
+}
+.list-menu a:hover{
+    color: white;
+}
+.list-menu-active{
+    background-color: var( --primary-color);
+}
+.list-menu-active a{
+    color: white;
+    border-radius: 3px;
+}
+
+
+
+

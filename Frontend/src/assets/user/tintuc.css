@@ -1,0 +1,65 @@
+.new {
+    line-height: 2;
+
+}
+.new1 .new-item {
+    margin-top: 1rem;
+   margin-bottom: 3.5rem;
+}
+
+.new2 .new-item {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.new h5,h6 {
+    font-family: serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+.new h4 {
+    margin: 1rem;
+}
+h6 {
+    font-size: 1rem;
+}
+.new-tor a {
+    color: var( --primary-color);
+}
+.new-tor p {
+    color: var( --primary-color);
+    margin-bottom: 0;
+}
+.new-tor .hour {
+    color: rgb(119, 116, 116);
+}
+
+.new1 img {
+    min-height: 17rem;
+}
+.new2 img {
+    min-height: 8rem;
+}
+
+.new1 hr {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+.new2 hr {
+    margin-bottom: 2.2rem;
+    border-style: dashed;
+}
+
+/* điện thoại */      
+  @media (max-width:63.9375em){
+    .new .new-item .new-item-nd{
+        padding:30px !important;
+    }
+    h6 {
+    font-size: 1.2rem;
+}
+   .new1 .new-item, .new2 .new-item{
+       margin-bottom: 0;
+   }
+
+}
