@@ -1,0 +1,18 @@
+[{
+  "_id": "brand_1700655267042",
+  "nameBrand": "Vietnam Airlines",
+  "descriptionBrand": "Hãng hàng không quốc gia Việt Nam",
+  "deleted": false
+},
+{
+  "_id": "brand_1700655325083",
+  "nameBrand": "VietJet Air",
+  "descriptionBrand": "Hãng Hàng Không VietJet  Air",
+  "deleted": false
+},
+{
+  "_id": "brand_1700655804411",
+  "nameBrand": "Vietravel Airlines",
+  "descriptionBrand": "Hãng Hàng Không Vietravel Airlines",
+  "deleted": false
+}]

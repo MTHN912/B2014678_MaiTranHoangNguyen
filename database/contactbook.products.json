@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "655df42bcdf013638a28f255"
+  },
+  "description": "Economy Class",
+  "nameProduct": "Ho Chi Minh to Bangkok",
+  "imageProduct": "https://tse3.mm.bing.net/th?id=OIP.eb4x1EV0dkCa2DdTvpm9_AHaE8&pid=Api&P=0&h=220",
+  "price": "3906914",
+  "id_brand": "brand_1700655267042",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "655df4c8cdf013638a28f2f7"
+  },
+  "id_brand": "brand_1700655267042",
+  "nameProduct": "Ho Chi Minh to Tokyo",
+  "imageProduct": "https://1000logos.net/wp-content/uploads/2021/02/Vietnam-Airlines-logo.jpg",
+  "price": "11031000",
+  "description": "Economy Class",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "655df562cdf013638a28f398"
+  },
+  "id_brand": "brand_1700655325083",
+  "nameProduct": "Phu Quoc to Ha Noi",
+  "imageProduct": "https://static.wixstatic.com/media/9d8ed5_aae4d32e8b1c4dfcb9f22daea096e435~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+  "price": "3683200",
+  "description": "Economy Class",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "655df642cdf013638a28f481"
+  },
+  "id_brand": "brand_1700655267042",
+  "nameProduct": "Ho Chi Minh to New York",
+  "imageProduct": "https://1000logos.net/wp-content/uploads/2021/02/Vietnam-Airlines-logo.jpg",
+  "price": "95240980",
+  "description": "Business Class",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "655df709cdf013638a28f54d"
+  },
+  "id_brand": "brand_1700655325083",
+  "nameProduct": "Ha Noi to Singapore",
+  "imageProduct": "https://static.wixstatic.com/media/9d8ed5_aae4d32e8b1c4dfcb9f22daea096e435~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+  "price": "10191000",
+  "description": "Premium Class",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "655df7d7cdf013638a28f624"
+  },
+  "description": "Economy Class",
+  "nameProduct": "Ha Noi to Da Lat",
+  "imageProduct": "https://ik.imagekit.io/tvlk/image/imageResource/2021/04/01/1617276698216-f6e5e4f3fda5ef35ba8ebea4d1212049.jpeg?tr=q-75",
+  "price": "3478000",
+  "id_brand": "brand_1700655804411",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "655df841cdf013638a28f690"
+  },
+  "id_brand": "brand_1700655267042",
+  "nameProduct": "Ha Noi to Los Angeles",
+  "imageProduct": "https://1000logos.net/wp-content/uploads/2021/02/Vietnam-Airlines-logo.jpg",
+  "price": "80090000",
+  "description": "First Class",
+  "favorite": false
+}]
